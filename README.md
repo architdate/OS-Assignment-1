@@ -53,8 +53,6 @@ You can run the graph-file by running:
 
     java processmgt graph-file
 
-Visit your server at `http://SERVER:8000`
-
 
 
 Setting up a graph-file to run
